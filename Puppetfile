@@ -8,9 +8,9 @@
 #mod '<user_puppetforge>-mysqlserver'
 
 mod 'puppet-webserver',
-  :git => 'https://github.com/andpupilo0182/puppet-webserver.git',
-  :branch => 'homolog'
+  :git => 'https://github.com/andpupilo0182/puppet-confsbase.git',
+  :branch => 'testing'
 
-mod 'puppet-balancer',
-  :git => 'https://github.com/andpupilo0182/puppet-balancer.git',
-  :branch => 'production'
+#mod 'puppet-balancer',
+#  :git => 'https://github.com/andpupilo0182/puppet-balancer.git',
+#  :branch => 'production'
