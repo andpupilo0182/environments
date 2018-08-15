@@ -7,7 +7,7 @@
 #mod '<user_puppetforge>-memcached'
 #mod '<user_puppetforge>-mysqlserver'
 
-mod 'puppet-webserver',
+mod 'puppet-confbase',
   :git => 'https://github.com/andpupilo0182/puppet-confbase.git',
   :branch => 'testing'
 
