@@ -9,7 +9,7 @@
 
 mod 'puppet-confbase',
   :git => 'https://github.com/andpupilo0182/puppet-confbase.git',
-  :branch => 'testing'
+  :branch => 'production'
 
 #mod 'puppet-balancer',
 #  :git => 'https://github.com/andpupilo0182/puppet-balancer.git',
