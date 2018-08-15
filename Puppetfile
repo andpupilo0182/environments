@@ -8,7 +8,7 @@
 #mod '<user_puppetforge>-mysqlserver'
 
 mod 'puppet-webserver',
-  :git => 'https://github.com/andpupilo0182/puppet-confsbase.git',
+  :git => 'https://github.com/andpupilo0182/puppet-confbase.git',
   :branch => 'testing'
 
 #mod 'puppet-balancer',
